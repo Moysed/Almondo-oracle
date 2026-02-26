@@ -1,0 +1,22 @@
+# Temporary files
+.tmp/
+
+# Local-only brain areas
+ψ/active/*
+ψ/learn/**/origin
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Secrets
+.env
+.env.local
+*.pem
